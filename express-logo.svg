@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-label="Express">
+<defs><linearGradient id="o" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff9800"/><stop offset="1" stop-color="#f56a00"/></linearGradient></defs>
+<rect width="300" height="300" rx="34" fill="url(#o)"/>
+<g transform="translate(150 100)" fill="#b80f12" stroke="#fff6ec" stroke-width="9" stroke-linejoin="round">
+<path d="M0-56 19-35 47-45 44-15 68 0 44 18 47 46 18 37 0 58-18 37-47 46-44 17-68 0-44-18-47-46-18-36Z"/>
+<circle r="23" fill="#f47b00" stroke="#fff6ec" stroke-width="8"/>
+</g>
+<text x="150" y="226" text-anchor="middle" font-family="Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="2" fill="#b80f12">express</text>
+</svg>
